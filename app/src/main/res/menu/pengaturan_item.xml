@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+        <item
+            android:id="@+id/pengaturanakun"
+            android:icon="@drawable/baseline_person_outline_24"
+            android:title="@string/pengaturanakun"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/notifikasi"
+            android:icon="@drawable/baseline_notifications_24"
+            android:title="@string/notifikasi"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/keamanan"
+            android:icon="@drawable/baseline_lock_open_24"
+            android:title="@string/keamanan"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/info"
+            android:icon="@drawable/baseline_info_24"
+            android:title="@string/info"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/keluar"
+            android:icon="@drawable/baseline_exit_to_app_24"
+            android:title="@string/keluar"
+            app:showAsAction="never" />
+
+</menu>

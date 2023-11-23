@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pengaturan</string>
+    <string name="pengaturanakun">Pengaturan Akun</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="keamanan">Privasi dan Keamanan</string>
+    <string name="info">Tentang Aplikasi</string>
+    <string name="keluar">Keluar</string>
+</resources>
